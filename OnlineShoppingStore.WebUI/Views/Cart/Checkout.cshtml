@@ -1,0 +1,54 @@
+﻿@model OnlineShoppingStore.Domain.Entities.ShippingDetails
+
+@{ 
+    ViewBag.Title = "Online Shopping Store: Checkout";
+}
+<h2>Check out now</h2>
+<p>Please enter your details, and we'll ship your goods right away!</p>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    <h3>Ship to</h3>
+    <div class="form-goup">
+        <label>Name:</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control"})
+    </div>
+    <div class="form-goup">
+        <label>Email:</label>
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+    </div>
+    <div class="form-goup">
+        <label>Line1:</label>
+        @Html.TextBoxFor(x => x.Line1, new { @class = "form-control" })
+    </div>
+    <div class="form-goup">
+        <label>Line2:</label>
+        @Html.TextBoxFor(x => x.Line2, new { @class = "form-control" })
+    </div>
+    <div class="form-goup">
+        <label>City:</label>
+        @Html.TextBoxFor(x => x.City, new { @class = "form-control" })
+    </div>
+    <div class="form-goup">
+        <label>State:</label>
+        @Html.TextBoxFor(x => x.State, new { @class = "form-control" })
+    </div>
+    <div class="form-goup">
+        <label>Zip:</label>
+        @Html.TextBoxFor(x => x.Zip, new { @class = "form-control" })
+    </div>
+    <div class="form-goup">
+        <label>Country:</label>
+        @Html.TextBoxFor(x => x.Country, new { @class = "form-control" })
+    </div>
+    <h3>Options</h3>
+    <div class="checkbox">
+        <label>
+            @Html.EditorFor(x => x.GiftWrap)
+            Gift wrap these items
+        </label>
+    </div>
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Comlete order" />
+    </div>
+}

@@ -1,0 +1,12 @@
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.pdb
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.dll
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.pdb
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll.config
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.dll
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.xml
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\neal_wang\documents\visual studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\NEAL_WANG\Documents\Visual Studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.Migrations.initial.resources
+C:\Users\NEAL_WANG\Documents\Visual Studio 2015\Projects\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.csproj.GenerateResource.Cache
