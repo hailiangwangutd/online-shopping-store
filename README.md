@@ -2,8 +2,8 @@
 
 Developed a shopping website with ASP.NET MVC, including products list, shopping cart and administration. Implemented CRUD Functionality with SQL Server Database by Entity Framework and Linq. Achieved Dependency Injection with Ninject. Constructed responsive frontend website with Bootstrap.
 
-To run this application. Edit EmailSettings.cs: <Enter>
-`online-shopping-store/OnlineShoppingStore.Domain/Concrete/EmailSettings.cs`,
+To run this application. Edit EmailSettings.cs: <br />
+`online-shopping-store/OnlineShoppingStore.Domain/Concrete/EmailSettings.cs`,<br />
 type in your own gmail address and password.
 
 ####Index Page: 
